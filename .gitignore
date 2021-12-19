@@ -1,3 +1,6 @@
+# ignore notebooks - checked in via percent script
+*.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
